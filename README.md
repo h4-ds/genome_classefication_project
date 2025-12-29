@@ -18,7 +18,8 @@ Accession numbers will be provided upon request.
 In this section, we analyze how the mutations are distributed across the dataset.
 
 ### Frequency Class Distribution
-![Frequency Class Distribution]width="589" height="455" alt="Frequency Class Distribution" src="https://github.com/user-attachments/assets/d4692c8f-02ac-4345-80d0-6cd04b40caba" />
+
+<img width="589" height="455" alt="Frequency Class Distribution" src="https://github.com/user-attachments/assets/dbb399f4-b1b2-4515-8dba-c8f93a405245" />
 
 This plot illustrates the significant class imbalance in our dataset, where 'Rare' mutations represent the majority of the samples, followed by 'Low-frequency' and 'Common' classes.
 
