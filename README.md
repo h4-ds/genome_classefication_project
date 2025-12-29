@@ -3,8 +3,7 @@ This project presents a comprehensive genomic data analysis pipeline aimed at st
 
 ## Data Source
 
-Raw genomic sequence data were obtained from public databases 
-(e.g., NCBI / GISAID).
+Raw genomic sequence data were obtained from public databases (NCBI)
 
 Due to size and privacy constraints, raw FASTA/FASTQ files are not stored in this repository.
 
